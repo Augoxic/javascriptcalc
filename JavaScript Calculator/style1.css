@@ -1,0 +1,14 @@
+div.card.card-body {
+    border-radius: 15px;
+    background-color: rgba(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255), 0.5);
+}
+
+input.form-control::placeholder,
+span.input-group-addon,
+h1 {
+    color: #000000;
+}
+
+body {
+    background-image: url(nyc.jpg);
+}
